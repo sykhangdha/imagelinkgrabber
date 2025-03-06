@@ -3,7 +3,7 @@
 // @namespace    http://skyha.rf.gd
 // @version      1.0
 // @description  Attempt to grab all image links from website
-// @author       You
+// @author       skyha
 // @match        *://*/*
 // @grant        GM_setClipboard
 // ==/UserScript==
